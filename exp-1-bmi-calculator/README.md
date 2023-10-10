@@ -9,3 +9,4 @@ BMI calculator using **Reactnative** and **Expo**.
 * Install [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US) on your phone.
 * Run `npm start` to start the development server.
 * scan the generated QR code with the Expo Go app.
+* The phone and laptop has to be on same wifi network.
