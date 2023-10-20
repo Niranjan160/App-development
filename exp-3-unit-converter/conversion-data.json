@@ -1,0 +1,228 @@
+{
+    "unit_names": [
+        {
+            "label": "Volume",
+            "value": "volume"
+        },
+        {
+            "label": "Area",
+            "value": "area"
+        },
+        {
+            "label": "Weight",
+            "value": "weight"
+        },
+        {
+            "label": "Length",
+            "value": "length"
+        }
+    ],
+    "volume": [
+        {
+            "label": "Milliliters",
+            "value": 1000
+        },
+        {
+            "label": "Centiliters",
+            "value": 100
+        },
+        {
+            "label": "Deciliters",
+            "value": 10
+        },
+        {
+            "label": "Liters",
+            "value": 1
+        },
+        {
+            "label": "Decaliters",
+            "value": 0.1
+        },
+        {
+            "label": "Hectoliters",
+            "value": 0.01
+        },
+        {
+            "label": "CubicMillimeters",
+            "value": 1000000
+        },
+        {
+            "label": "CubicCentimeters",
+            "value": 1000
+        },
+        {
+            "label": "CubicDecimeters",
+            "value": 1
+        },
+        {
+            "label": "CubicMeters",
+            "value": 0.001
+        },
+        {
+            "label": "Gallons (US Liquid)",
+            "value": 0.264172
+        },
+        {
+            "label": "Gallons (UK)",
+            "value": 0.219969
+        },
+        {
+            "label": "Quarts (US)",
+            "value": 1.05669
+        },
+        {
+            "label": "Quarts (UK)",
+            "value": 0.879877
+        },
+        {
+            "label": "Pints (US)",
+            "value": 2.11338
+        },
+        {
+            "label": "Pints (UK)",
+            "value": 1.75975
+        },
+        {
+            "label": "Fluid Ounces (US)",
+            "value": 33.814
+        },
+        {
+            "label": "Fluid Ounces (UK)",
+            "value": 35.1951
+        },
+        {
+            "label": "Cubic Inches",
+            "value": 61.0237
+        },
+        {
+            "label": "Cubic Feet",
+            "value": 0.0353147
+        },
+        {
+            "label": "Cubic Yards",
+            "value": 0.00130795
+        }
+    ],
+    "length": [
+        {
+            "label": "Millimeters",
+            "value": 1000
+        },
+        {
+            "label": "Centimeters",
+            "value": 100
+        },
+        {
+            "label": "Decimeters",
+            "value": 10
+        },
+        {
+            "label": "Meters",
+            "value": 1
+        },
+        {
+            "label": "Decameters",
+            "value": 0.1
+        },
+        {
+            "label": "Hectometers",
+            "value": 0.01
+        },
+        {
+            "label": "Kilometers",
+            "value": 0.001
+        },
+        {
+            "label": "Nanometers",
+            "value": 1000000000.0
+        },
+        {
+            "label": "Picometers",
+            "value": 1000000000000.0
+        },
+        {
+            "label": "Light Days",
+            "value": 3.8607e-11
+        },
+        {
+            "label": "Astronomical Units",
+            "value": 6.68459e-12
+        },
+        {
+            "label": "Parsecs",
+            "value": 3.24078e-17
+        },
+        {
+            "label": "Micrometers",
+            "value": 1000000.0
+        },
+        {
+            "label": "Inches",
+            "value": 39.3701
+        },
+        {
+            "label": "Feet",
+            "value": 3.28084
+        },
+        {
+            "label": "Yards",
+            "value": 1.09361
+        },
+        {
+            "label": "Miles",
+            "value": 0.0006213712
+        },
+        {
+            "label": "Nautical Miles",
+            "value": 0.0005399568
+        },
+        {
+            "label": "Fathoms",
+            "value": 0.546807
+        },
+        {
+            "label": "Chains",
+            "value": 0.0497097
+        },
+        {
+            "label": "Furlongs",
+            "value": 0.00497097
+        },
+        {
+            "label": "Rods",
+            "value": 0.1988388
+        },
+        {
+            "label": "Links",
+            "value": 4.9709695
+        },
+        {
+            "label": "Hands",
+            "value": 9.8425197
+        },
+        {
+            "label": "Thous",
+            "value": 39370.1
+        }
+    ],
+    "area": [
+        {
+            "label": "Hands",
+            "value": 9.8425197
+        },
+        {
+            "label": "Thous",
+            "value": 39370.1
+        }
+    ],
+    "weight": [
+        {
+            "label": "Hands",
+            "value": 9.8425197
+        },
+        {
+            "label": "Thous",
+            "value": 39370.1
+        }
+    ]
+}
