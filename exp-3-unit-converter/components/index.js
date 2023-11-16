@@ -5,7 +5,7 @@ import cd from '../conversion-data.json'
 
 const FormBox = () => {
     // console.log(cd["length"]);
-    const [unit, setUnit] = useState(cd["unit_names"][0]["value"]);
+    const [unit, setUnit] = useState(cd["unit_names"][0]["value"]); // useState - to reder the components when it is updated
     const [from_unit, setFrom_unit] = useState(null);
     const [to_unit, setTo_unit] = useState(null);
     const [inputData, setInputData] = useState(null);
@@ -16,7 +16,7 @@ const FormBox = () => {
         setTo_unit(cd[unit][0]["value"]);
         setOutputData('0');
         setInputData(null);
-    }, [unit])
+    }, [unit])  // useEffect-will run at every render of "unit"
 
     const calculate_conversion = (value) => {
         setInputData(value);
